@@ -1,0 +1,2 @@
+# RDWebView
+能兼容ios7和ios8系统的webview，当系统版本较高的时候会选择性能较好的wkwebview，支持手势返回功能和进度条功能，内容自适应
